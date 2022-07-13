@@ -115,4 +115,4 @@ OPEN   Predicate: bornIn('x0', 'x1')
 ('Albert', 'Kingdom_of_Wuertemberg')                 APPROX_TRUE (0.6, 1.0)
 
 ***************************************************************************
-´´´
+```
